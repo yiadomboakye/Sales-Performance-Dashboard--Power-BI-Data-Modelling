@@ -6,3 +6,5 @@ Understanding the key factors that drive success is crucial for analyzing data a
 Additionally, the project aims to identify high-performing products, highlight those requiring further attention, and assess the impact of different market segments, regions, and product categories on sales and profitability. It also analyses monthly sales and profit trends, providing strategic recommendations to drive revenue growth and enhance overall business performance.
 
 ### Data Sources
+The dataset used for this project is the "Global_Superstore.csv" file. It contains detailed information on each sale made by the company, including order details, customer demographics, product categories, and financial metrics such as sales, profit, and discounts.
+
