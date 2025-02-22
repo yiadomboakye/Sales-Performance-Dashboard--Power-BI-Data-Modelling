@@ -57,8 +57,20 @@ I built a star schema to optimize data modelling and analysis. The original data
 - Lowest Sales for the current year was in the months of March and July.
 - Highest net profit for last year was in the months of February and June.
 - Highest net profit for current year was in the month of October.
-- Lowest net profit for last year and current year were both in September
+- Lowest net profit for last year and current year were both in September.
 
+### Recommendations
+- As the technology category proves to be the most efficient, the company should allocate more resources to technology-related products to enhance sales and profits.
+- Conduct a detailed profitability analysis on office supplies to identify underperforming products.
+- Consider targeted promotions with high-selling products to increase demand.
+- With Asia and Europe being the largest contributors, the company should focus on expanding its marketing and distribution efforts in these regions.
+- Implement sales-boosting strategies for historically low sales months (March, July), such as targeted ads, product discounts, or exclusive offers.
+- As net profit peaks in February, June, and October, the company should identify the factors driving profitability during these months and apply similar strategies to boost performance in lower-profit months.
+- Since September records the lowest net profit consistently, investigate factors like operational costs, marketing expenses, or seasonal demand dips, and adjust business strategies accordingly.
+
+💻
+🥇
+🙂
   
 
 
